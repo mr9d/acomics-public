@@ -6,7 +6,7 @@
 
 Этот репозиторий создан для организации списка багов и задач по разработке портала [Авторский Комикс](https://acomics.ru/). Задачи доступны в разделе [issues](https://github.com/mr9d/acomics-public/issues): вы можете голосовать за отдельные задачи, оставляя под ними эмодзи, добавлять комментарии к существующим задачи, и создавать новые.
 
-# [EN] [EN] Avtorsky Comics public backlog
+# [EN] Avtorsky Comics public backlog
 
 No source code here.
 

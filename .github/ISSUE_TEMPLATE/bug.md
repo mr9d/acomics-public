@@ -2,7 +2,7 @@
 name: bug
 about: Баг - ошибка в существующей функциональности
 title: ''
-labels: баг
+labels: баг, причесать
 assignees: ''
 
 ---
